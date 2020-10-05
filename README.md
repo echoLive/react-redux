@@ -1,12 +1,3 @@
-# React Projects
-
-A couple of projects to get familiar with the React framework.
-
-![Giphy](https://media.giphy.com/media/l0HUhhAtb86vYAHkY/giphy.gif)
-![Giphy](https://media.giphy.com/media/26gN147Cy7zF1Mv7y/giphy.gif)
-![Giphy](https://media.giphy.com/media/26DNeo2xDmfj3plbW/giphy.gif)
-
-
 ## Projects
 1. **todo**: Basic todo app to get started.
 2. **tictactoe**: A tic-tac-toe game uses states and props.
